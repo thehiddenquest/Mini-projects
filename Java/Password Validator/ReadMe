@@ -1,0 +1,6 @@
+This program is CLI version of password validator which validates passwords on 4 different rules.
+  1. Length of password is 8 characters atleast
+  2. Password must contains atleast one upper case.
+  3. Password must contains atleast one special character.
+  4. Password must contains atleast one digit. 
+
